@@ -30,7 +30,7 @@ Each post will be published on:
 
 ---
 
-### ✅ Post 2 — Step 1: How to Align Support with Company Goals
+###  Post 2 — Step 1: How to Align Support with Company Goals
 - 🔹 Key questions to ask your leadership
 - 🔹 Map support outcomes to business OKRs
 - 🔹 Segment your customers and define needs
@@ -38,7 +38,7 @@ Each post will be published on:
 
 ---
 
-### ✅ Post 3 — Step 2: Designing SLAs That Actually Work
+###  Post 3 — Step 2: Designing SLAs That Actually Work
 - 🔹 What makes a good vs bad SLA
 - 🔹 Tiered SLAs for different customer types
 - 🔹 Use historical data to calibrate
@@ -46,7 +46,7 @@ Each post will be published on:
 
 ---
 
-### ✅ Post 4 — Step 3: Creating Playbooks and Workflows That Scale
+###  Post 4 — Step 3: Creating Playbooks and Workflows That Scale
 - 🔹 Identify your top 5 ticket types
 - 🔹 Write simple, repeatable workflows
 - 🔹 Build escalation playbooks for critical paths
@@ -54,7 +54,7 @@ Each post will be published on:
 
 ---
 
-### ✅ Post 5 — Step 4: Delivering Enterprise-Level Support Without a Big Team
+###  Post 5 — Step 4: Delivering Enterprise-Level Support Without a Big Team
 - 🔹 What enterprise customers expect
 - 🔹 White-glove onboarding and faster SLAs
 - 🔹 How to assign TAMs or leads efficiently
@@ -62,7 +62,7 @@ Each post will be published on:
 
 ---
 
-### ✅ Post 6 — Step 5: Support Metrics That Actually Matter
+###  Post 6 — Step 5: Support Metrics That Actually Matter
 - 🔹 Focus on CSAT, FRT, TTR, Escalation Rate
 - 🔹 Track trends over time, not just snapshots
 - 🔹 Create simple exec-ready reporting views
@@ -70,7 +70,7 @@ Each post will be published on:
 
 ---
 
-### ✅ Post 7 — Common Pitfalls (and How to Avoid Them)
+###  Post 7 — Common Pitfalls (and How to Avoid Them)
 - 🔹 Overpromising SLAs
 - 🔹 No documentation or scaling plan
 - 🔹 Treating all customers the same
@@ -78,7 +78,7 @@ Each post will be published on:
 
 ---
 
-### ✅ Post 8 — Your First 30 Days as a Support Leader: Tactical Checklist
+###  Post 8 — Your First 30 Days as a Support Leader: Tactical Checklist
 - 🔹 Week-by-week breakdown
 - 🔹 Must-do conversations, documents, decisions
 - 🔹 Aligns with Chapter 1 wrap-up
