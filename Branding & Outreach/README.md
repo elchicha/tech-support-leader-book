@@ -1,0 +1,1 @@
+Notes here can be about building your personal brand, marketing your book, and connecting with your audience.

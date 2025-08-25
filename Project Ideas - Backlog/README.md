@@ -1,0 +1,1 @@
+Use this for any scattered ideas or things you want to explore later.
