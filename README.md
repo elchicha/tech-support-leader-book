@@ -1,3 +1,4 @@
+
 ### Recap of Key Features:
 
 1. **Folder structure** for chapters, resources, and personal branding.
@@ -9,3 +10,4 @@
 4. **Project Dashboard** to stay organized.
     
 5. **Graph View** for visualizing connections between ideas.
+
