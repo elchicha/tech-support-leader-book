@@ -28,6 +28,8 @@ Each post will be published on:
 - 🔹 What support strategy *actually* means
 - 🔹 Mini checklist of what your strategy should include
 
+  [Article Link](https://www.linkedin.com/pulse/why-you-need-support-strategy-before-answer-another-luis-b6m4f/)
+
 ---
 
 ###  Post 2 — Step 1: How to Align Support with Company Goals
