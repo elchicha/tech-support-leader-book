@@ -37,6 +37,7 @@ Each post will be published on:
 - 🔹 Map support outcomes to business OKRs
 - 🔹 Segment your customers and define needs
 - ✅ Include: worksheet – *Map Support to Company Goals*
+[Article Link](https://www.linkedin.com/pulse/how-align-support-company-goals-luis-lopez-echeto-bordon-qp1ze)
 
 ---
 
