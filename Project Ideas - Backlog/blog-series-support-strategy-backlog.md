@@ -32,7 +32,7 @@ Each post will be published on:
 
 ---
 
-###  Post 2 — Step 1: How to Align Support with Company Goals
+###  ✅ Post 2 — Step 1: How to Align Support with Company Goals
 - 🔹 Key questions to ask your leadership
 - 🔹 Map support outcomes to business OKRs
 - 🔹 Segment your customers and define needs
