@@ -1,7 +1,3 @@
-can you format these pillars in markdown
-
-Edit
-
 ## 📚 The Software Fix – Content Strategy (Pragmatic Idealist)
 
 ---
